@@ -1,0 +1,4 @@
+train.py
+venv/
+data/subset0
+preprocessed_Data_0/
