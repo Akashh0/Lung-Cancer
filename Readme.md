@@ -1,5 +1,5 @@
 Team 2
-DharshiniMahalakshmi B
-Angel Iruthya
+Dhanush S
+Haresh K
 
-ResNet , Inception ResNet , 3D V Net
+AttentionUNet , EfficientUNet
