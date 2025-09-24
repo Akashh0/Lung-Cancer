@@ -2,4 +2,4 @@ Team 1 :
 DharshiniMahalakshmi B
 Angel Iruthya F
 
-Lung cancer detection using AttentionUnet and EfficientNet
+ResNet , Inception ResNet , 3D V Net
